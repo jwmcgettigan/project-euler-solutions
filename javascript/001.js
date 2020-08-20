@@ -4,7 +4,6 @@
  * https://github.com/jwmcgettigan/project-euler-solutions
  */
 
-
 const multipleOf = (num, multiple) => num % multiple == 0;
 const sumofMultiples = (limit) => {
   let sum = 0;
