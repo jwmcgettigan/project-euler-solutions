@@ -1,0 +1,35 @@
+Prime Numbers:
+ • are whole numbers greater than 1, that have only two factors – 1 and the number itself.
+ • are divisible only by the number 1 or itself.
+Composite Numbers:
+ • are whole numbers that have more than two factors.
+ • are divisible by more than two numbers.
+ • are whole numbers that are not prime.
+Factors:
+ • are the numbers you multiply together to get another number.
+Prime Factorization:
+ • finding which prime numbers multiply together to make the original number.
+Prime Factor:
+ • A factor that is a prime number.
+ • any of the prime numbers that can be multiplied to give the original number.
+Original Number:
+ • The number you are finding the factors to.
+
+Algorithm for Prime Factorization:
+#-------------------------
+  Input  N
+  p = 2
+  Print  N & "="
+  Do while N > = p * p
+    If  N mod p = 0 then
+      Print p & "*"
+      N = N / p 
+    Else
+      p  = p + 1
+    End  If
+  Loop
+  Print  N
+#-------------------------
+resource: "https://people.revoledu.com/kardi/tutorial/BasicMath/Prime/Algorithm-PrimeFactor.html"
+#-------------------------
+@Justin For the algorithm above, the final value of N is the largest prime factor of Input N.
