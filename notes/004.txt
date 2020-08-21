@@ -1,0 +1,14 @@
+Palindromic Number:
+ • A number that is the same when written forwards or backwards (i.e., of the form a1a2...a2a1)
+ • The first few palindromic numbers are therefore are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 22, 33, 44, 55, 66, 77, 88, 99, 101, 111, 121, ...
+#----------------------------
+resource: "https://helloacm.com/algorithms-to-determine-a-palindrome-number/"
+#----------------------------
+
+# I feel that there is a much faster method than
+# the one I'm using where we start from the upper_limit
+# with both numbers and increment downward with both of them until
+# a palindrome is found.  This is because logically, the larger
+# the multipliers, the larger the palindrome must be.
+
+#TODO: Write a language agnostic algorithm
