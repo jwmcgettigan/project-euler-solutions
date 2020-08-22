@@ -14,6 +14,7 @@ const leastCommonMultiple = (a, b) => {
 };
 
 const smallestMultiple = (divisors) => {
+  console.log(divisors)
   let multiple = divisors[0];
   divisors.forEach(divisor => {
     multiple = leastCommonMultiple(multiple, divisor);

@@ -4,10 +4,10 @@ Copyright (c) Justin McGettigan. All rights reserved.
 https://github.com/jwmcgettigan/project-euler-solutions
 """
 
-def greatest_common_divisor(a, b):
+def greatest_common_divisor(a, b) -> int:
   return a if not b else greatest_common_divisor(b, a % b)
 
-def least_common_multiple(a, b):
+def least_common_multiple(a, b) -> int:
   return a * b // greatest_common_divisor(a, b)
 
 def smallest_multiple(divisors) -> int:
@@ -17,4 +17,4 @@ def smallest_multiple(divisors) -> int:
   return multiple
 
 if __name__ == "__main__":
-	print(smallest_multiple(range(1,20)))
+	print(smallest_multiple(range(1,21)))
