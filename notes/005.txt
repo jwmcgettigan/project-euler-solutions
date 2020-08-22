@@ -1,0 +1,51 @@
+Multiplication:
+ • repeated addition of a number
+  Multiple:
+  • the product of any quantity and an integer.
+  • 'b' is a multiple of 'a' if 'b = na' for some integer 'n', which is called the multiplier.
+  Product:
+  • the multiple of each multiplier.
+  Multiplier/Factor:
+  • The number that you are multiplying by.
+
+Division:
+ • splitting into equal parts or groups.
+  Divisible:
+   • Capable of being divided.
+  Evenly Divisible:
+   • When dividing by a certain number gives a whole number answer.
+   • capable of being divided by another number without a remainder.
+  Divisible By:
+   • The preceding number can be 'divided by' the following number.
+  Divided By:
+   • The preceding number divides the following number.
+  Dividend/Numerator:
+   • The number you are dividing.
+  Divisor/Denominator:
+   • The number you are 'dividing by'.
+   • any number that divides another number.
+   Factor:
+    • a divisor that divides the number entirely and leaves no remainder.
+    • all factors of a number are its divisors. But not all divisors will be factors.
+  Quotient:
+   • The result of division.
+
+Product vs Multiple vs Divisor:
+ • Two numbers are factors of a 'number' if their product is the 'number'.
+ • The 'number' is a multiple of a factor. 
+ • Each factor is a divisor of the 'number'.
+
+Least Common Multiple:
+ • The smallest positive number that is a multiple of two or more numbers.
+Greatest Common Divisor/Greatest Common Factor:
+ • the largest positive integer number that divides all the numbers in the set without remainder.
+ • the biggest multiple of all numbers in the set.
+
+"""
+# alternative 005.py smallest_multiple()
+from functools import reduce
+def smallest_multiple(*divisors):
+  return reduce(lambda a,b: least_common_multiple(a,b), divisors)
+"""
+#I currently answer each question while trying to keep readability as the top priority.
+#I'm considering creating an alternate version of each solution that is as short as possible.
