@@ -1,0 +1,4 @@
+Sieve of Eratosthenes
+#--------------------
+resource: "https://stackoverflow.com/questions/3939660/sieve-of-eratosthenes-finding-primes-python"
+#--------------------
