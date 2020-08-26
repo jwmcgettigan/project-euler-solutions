@@ -4,7 +4,7 @@ Copyright (c) Justin McGettigan. All rights reserved.
 https://github.com/jwmcgettigan/project-euler-solutions
 """
 
-# I essentially modified by answer to problem 007.
+# I essentially modified my answer to problem 007.
 def sum_of_primes_below_n(n):
   sum_of_primes = 0
   composites = set()

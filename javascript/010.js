@@ -4,7 +4,7 @@
  * https://github.com/jwmcgettigan/project-euler-solutions
  */
 
-// I essentially modified by answer to problem 007.
+// I essentially modified my answer to problem 007.
 const sumOfPrimesBelowN = (n) => {
   let sumOfPrimes = 0;
   const composites = new Set();

@@ -34,8 +34,7 @@ def greatest_product_of_n_adjacent_digits(n):
     digits = numbers[i-n:i]
     for digit in digits:
       product *= int(digit)
-    if product > greatest_product:
-      greatest_product = product
+    greatest_product = max(product, greatest_product)
   return greatest_product
 
 if __name__ == "__main__":
