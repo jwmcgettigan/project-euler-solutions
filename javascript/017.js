@@ -13,7 +13,7 @@ numerals = {
   tens: {
     2: 'twenty', 3: 'thirty', 4: 'forty', 5: 'fifty', 6: 'sixty',
     7: 'seventy', 8: 'eighty', 9: 'ninety'}
-}
+};
 
 const numberToNumeral = (num) => {
   if(num < 20) {
@@ -32,7 +32,7 @@ const numberToNumeral = (num) => {
 const numerLetterCounts = (n) => {
   let s = 0;
   for(let i = 1; i < n+1; i++) {
-    s += numberToNumeral(i).length
+    s += numberToNumeral(i).length;
   }
   return s;
 };
