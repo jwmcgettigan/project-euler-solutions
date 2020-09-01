@@ -14,12 +14,6 @@ const sumDigits = (n) => {
   return Number(s);
 };
 
-const sumDigits2 = (n) => {
-  return n.toString().match(/-?\d/g).reduce(function(a, b) {
-    return +a + +b;
-  });
-}
-
 const powerDigitSum = (power) => {
   return sumDigits(BigInt(2**power));
 };
