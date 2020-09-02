@@ -7,7 +7,7 @@
 const sumDigits = (n) => {
   let s = BigInt(0), base = BigInt(10);
   while(n > 0) {
-    remainder = n % base
+    remainder = n % base;
     s += remainder;
     n = (n - remainder) / base;
   }
