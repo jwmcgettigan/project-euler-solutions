@@ -7,6 +7,7 @@ https://github.com/jwmcgettigan/project-euler-solutions
 #TODO: Needs optimization
 #! javascript code runs much faster, why is that?
 #! I suspect the problem lies in python's for loops.
+#TODO: Try to find the number of divisors by the multiplicity of prime factors
 
 def isComposite(num, p): return num >= (p*p)
 def isPrime(num, p): return num % p == 0
