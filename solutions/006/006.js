@@ -3,7 +3,7 @@
  * Copyright (c) Justin McGettigan. All rights reserved.
  * https://github.com/jwmcgettigan/project-euler-solutions
  */
-const { range } = require('./helpers');
+const { range } = require('../../helpers/helpers');
 
 const sum = (nums) => nums.reduce((a, b) => a + b);
 

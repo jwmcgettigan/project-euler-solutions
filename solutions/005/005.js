@@ -3,7 +3,7 @@
  * Copyright (c) Justin McGettigan. All rights reserved.
  * https://github.com/jwmcgettigan/project-euler-solutions
  */
-const { range } = require('./helpers');
+const { range } = require('../../helpers/helpers');
 
 const greatestCommonDivisor = (a, b) => {
   return !b ? a : greatestCommonDivisor(b, a % b);
@@ -14,7 +14,6 @@ const leastCommonMultiple = (a, b) => {
 };
 
 const smallestMultiple = (divisors) => {
-  console.log(divisors)
   let multiple = divisors[0];
   divisors.forEach(divisor => {
     multiple = leastCommonMultiple(multiple, divisor);
