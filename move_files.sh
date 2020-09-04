@@ -9,4 +9,4 @@ do
   #mv "notes/$prob_num.txt" "solutions/$prob_num"
 done
 
-mv "resources/p022_names.txt" "solutions/022"
+#mv "resources/p022_names.txt" "solutions/022"
