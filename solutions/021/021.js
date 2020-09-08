@@ -10,13 +10,13 @@ const d = (n) => {
   for(let i = 2; i < n**0.5; i++) {
     if(n % i == 0) {
       if(n / i == i) { // If divisors are equal, add only one 
-        total += i
+        total += i;
       } else { // Otherwise add both
         total += (i + n / i);
       }
     }
   }
-  return total
+  return total;
 }
 
 const amicableNumbers = (n) => {

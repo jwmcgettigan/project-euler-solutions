@@ -14,9 +14,8 @@ https://github.com/jwmcgettigan/project-euler-solutions
 def d(n):
   # reused from problem 012
   total = 1 # start at one since 1 is also a divisor
-  for i in range(2, int(n**0.5)):
+  for i in range(2, int(n**0.5)+1):
     if(n % i == 0):
-
       if(n / i == i): # If divisors are equal, add only one 
         total += i
       else: # Otherwise add both
