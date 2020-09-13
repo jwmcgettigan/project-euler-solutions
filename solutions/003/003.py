@@ -4,15 +4,15 @@ Copyright (c) Justin McGettigan. All rights reserved.
 https://github.com/jwmcgettigan/project-euler-solutions
 """
 
-def isComposite(num, p): return num >= (p*p)
-def isPrime(num, p): return num % p == 0
-def primeFactorization(number):
+def is_composite(num, p): return num >= (p*p)
+def is_prime(num, p): return num % p == 0
+def prime_factorization(number):
   p = 2
-  while(isComposite(number, p)):
-    if(isPrime(number, p)):
+  while(is_composite(number, p)):
+    if(is_prime(number, p)):
       number = number / p;
     else: p += 1
   return number
 
 if __name__ == "__main__":
-	print(primeFactorization(600851475143))
+	print(prime_factorization(600851475143))
