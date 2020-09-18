@@ -1,5 +1,6 @@
 /**
  * Project Euler - Problem Solution 026
+ * Problem Title - Reciprocal cycles
  * Copyright (c) Justin McGettigan. All rights reserved.
  * https://github.com/jwmcgettigan/project-euler-solutions
  */

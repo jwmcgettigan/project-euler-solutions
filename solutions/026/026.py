@@ -5,7 +5,11 @@ Copyright (c) Justin McGettigan. All rights reserved.
 https://github.com/jwmcgettigan/project-euler-solutions
 """
 
-# the key is long-division
+"""
+the key is long-division
+#TODO: create a step-by-step visualization of how 
+       to derive the recurring part of the fraction through long division
+"""
 
 def recurring_cycle_len(d):
   '''Returns the recurring part of the decimal

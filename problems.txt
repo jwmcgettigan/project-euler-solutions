@@ -1,0 +1,726 @@
+ID##Description##Published##Updated##Solved By##Solve Status
+1##Multiples of 3 and 5##1002301200##1509908991##964488##1
+2##Even Fibonacci numbers##1003510800##1355693477##767567##1
+3##Largest prime factor##1004724000##1355693477##550059##1
+4##Largest palindrome product##1005933600##1355693477##485819##1
+5##Smallest multiple##1007143200##1355693477##489467##1
+6##Sum square difference##1008352800##1578606785##492486##1
+7##10001st prime##1009562400##1355693477##420781##1
+8##Largest product in a series##1010772000##1596131631##351443##1
+9##Special Pythagorean triplet##1011981600##1355693477##356937##1
+10##Summation of primes##1013191200##1355693477##326587##1
+11##Largest product in a grid##1014400800##1596131772##233244##1
+12##Highly divisible triangular number##1015610400##1596131814##220015##1
+13##Large sum##1016820000##1596131845##225188##1
+14##Longest Collatz sequence##1018026000##1596133362##225560##1
+15##Lattice paths##1019235600##1552155633##185717##1
+16##Power digit sum##1020445200##1355693477##227934##1
+17##Number letter counts##1021654800##1355693477##150235##1
+18##Maximum path sum I##1022864400##1596131936##143717##1
+19##Counting Sundays##1024074000##1355693477##133544##1
+20##Factorial digit sum##1024678800##1355693477##197131##1
+21##Amicable numbers##1025888400##1355693477##145062##1
+22##Names scores##1027098000##1407934109##133040##1
+23##Non-abundant sums##1028307600##1355693477##102795##1
+24##Lexicographic permutations##1029517200##1355693477##113407##1
+25##1000-digit Fibonacci number##1030726800##1429994770##154106##1
+26##Reciprocal cycles##1031936400##1355693477##82658##1
+27##Quadratic primes##1033146000##1469750039##86036##0
+28##Number spiral diagonals##1034355600##1596132022##106890##0
+29##Distinct powers##1035565200##1355693477##104136##0
+30##Digit fifth powers##1036778400##1596319604##108748##0
+31##Coin sums##1037988000##1574499593##83774##0
+32##Pandigital products##1039197600##1355693477##70036##0
+33##Digit cancelling fractions##1040407200##1414673756##70475##0
+34##Digit factorials##1041616800##1596319640##93027##0
+35##Circular primes##1042826400##1355693477##83396##0
+36##Double-base palindromes##1044036000##1596319676##87550##0
+37##Truncatable primes##1045245600##1596319696##72363##0
+38##Pandigital multiples##1046455200##1360072092##61828##0
+39##Integer right triangles##1047664800##1355693477##71917##0
+40##Champernowne's constant##1048874400##1596132067##78804##0
+41##Pandigital prime##1050080400##1355693477##66867##0
+42##Coded triangle numbers##1051290000##1407934158##73156##0
+43##Sub-string divisibility##1052499600##1355693477##58560##0
+44##Pentagon numbers##1053709200##1362232806##57242##0
+45##Triangular, pentagonal, and hexagonal##1054918800##1355693477##69795##0
+46##Goldbach's other conjecture##1056128400##1596133382##60336##0
+47##Distinct primes factors##1057338000##1596133407##56738##0
+48##Self powers##1058547600##1355693477##110963##0
+49##Prime permutations##1059757200##1355693477##56662##0
+50##Consecutive prime sum##1060966800##1440254453##61212##0
+51##Prime digit replacements##1062176400##1369472196##32726##0
+52##Permuted multiples##1063386000##1355693477##63890##0
+53##Combinatoric selections##1064595600##1568034863##57691##0
+54##Poker hands##1065805200##1596132314##34977##0
+55##Lychrel numbers##1067014800##1596133436##52548##0
+56##Powerful digit sum##1068228000##1355693477##56967##0
+57##Square root convergents##1069437600##1568035282##40394##0
+58##Spiral primes##1070647200##1596132414##38982##0
+59##XOR decryption##1071856800##1552225992##40094##0
+60##Prime pair sets##1073066400##1355693477##25627##0
+61##Cyclical figurate numbers##1074276000##1355693477##24477##0
+62##Cubic permutations##1075485600##1355699013##30310##0
+63##Powerful digit counts##1076695200##1355693477##42003##0
+64##Odd period square roots##1077904800##1553191637##21229##0
+65##Convergents of e##1079114400##1551819351##28886##0
+66##Diophantine equation##1080324000##1596133476##18800##0
+67##Maximum path sum II##1081530000##1596132639##94375##0
+68##Magic 5-gon ring##1082739600##1552155660##19888##0
+69##Totient maximum##1083949200##1596132984##33612##0
+70##Totient permutation##1085158800##1355693477##21359##0
+71##Ordered fractions##1086368400##1596133122##28280##0
+72##Counting fractions##1087578000##1596133151##21458##0
+73##Counting fractions in a range##1088787600##1596133171##24129##0
+74##Digit factorial chains##1089997200##1596133313##25763##0
+75##Singular integer right triangles##1091206800##1363991957##17156##0
+76##Counting summations##1092416400##1355693477##27608##0
+77##Prime summations##1093626000##1355693477##18323##0
+78##Coin partitions##1094835600##1597849827##16044##0
+79##Passcode derivation##1095440400##1407934264##39963##0
+80##Square root digital expansion##1097254800##1355693477##19027##0
+81##Path sum: two ways##1098464400##1573329923##33281##0
+82##Path sum: three ways##1099677600##1573330076##20275##0
+83##Path sum: four ways##1100887200##1573330502##17354##0
+84##Monopoly odds##1102096800##1596134481##11961##0
+85##Counting rectangles##1103306400##1552155695##23760##0
+86##Cuboid route##1105120800##1552155721##12025##0
+87##Prime power triples##1106330400##1355693477##20048##0
+88##Product-sum numbers##1107540000##1355693477##9478##0
+89##Roman numerals##1108749600##1596134547##20410##0
+90##Cube digit pairs##1109959200##1552221360##10610##0
+91##Right triangles with integer coordinates##1111168800##1552155773##14724##0
+92##Square digit chains##1112374800##1355693477##40415##0
+93##Arithmetic expressions##1113584400##1596134574##11125##0
+94##Almost equilateral triangles##1114794000##1355693477##11647##0
+95##Amicable chains##1116003600##1355693477##13553##0
+96##Su Doku##1117213200##1596135031##16322##0
+97##Large non-Mersenne prime##1118422800##1355693477##42157##0
+98##Anagramic squares##1119027600##1596319710##10711##0
+99##Largest exponential##1120237200##1596319724##29514##0
+100##Arranged probability##1121446800##1355693477##15503##0
+101##Optimum polynomial##1122656400##1596149845##10796##0
+102##Triangle containment##1123866000##1596319738##21030##0
+103##Special subset sums: optimum##1125075600##1596149891##7508##0
+104##Pandigital Fibonacci ends##1126285200##1355693477##15492##0
+105##Special subset sums: testing##1127494800##1596149917##7509##0
+106##Special subset sums: meta-testing##1128704400##1596149936##5974##0
+107##Minimal network##1129914000##1552155797##10388##0
+108##Diophantine reciprocals I##1131127200##1552177173##12033##0
+109##Darts##1132336800##1596150205##7638##0
+110##Diophantine reciprocals II##1133546400##1596146664##7618##0
+111##Primes with runs##1134756000##1355693477##6745##0
+112##Bouncy numbers##1135965600##1355693477##23688##0
+113##Non-bouncy numbers##1139594400##1355693477##10506##0
+114##Counting block combinations I##1140199200##1552156187##10242##0
+115##Counting block combinations II##1140804000##1401354902##9347##0
+116##Red, green or blue tiles##1141408800##1552156203##11484##0
+117##Red, green, and blue tiles##1142013600##1552156221##10531##0
+118##Pandigital prime sets##1143223200##1355693477##6457##0
+119##Digit power sum##1144429200##1355693477##11725##0
+120##Square remainders##1145638800##1355693477##13138##0
+121##Disc game prize fund##1148058000##1355693477##9166##0
+122##Efficient exponentiation##1149267600##1355693477##7287##0
+123##Prime square remainders##1150477200##1355693477##10946##0
+124##Ordered radicals##1152896400##1395307999##13050##0
+125##Palindromic sums##1154710800##1355693477##12867##0
+126##Cuboid layers##1155920400##1552155973##4369##0
+127##abc-hits##1157130000##1355693477##5784##0
+128##Hexagonal tile differences##1159549200##1552155994##4636##0
+129##Repunit divisibility##1161968400##1355693477##5855##0
+130##Composites with prime repunit property##1161968400##1355693477##5508##0
+131##Prime cube partnership##1163181600##1355693477##6888##0
+132##Large repunit factors##1164996000##1355693477##5912##0
+133##Repunit nonfactors##1164996000##1355693477##5127##0
+134##Prime pair connection##1166205600##1355693477##6524##0
+135##Same differences##1167415200##1355693477##5935##0
+136##Singleton difference##1167415200##1355693477##5222##0
+137##Fibonacci golden nuggets##1168624800##1567522919##5097##0
+138##Special isosceles triangles##1169290800##1567523067##5404##0
+139##Pythagorean tiles##1169888400##1552156017##5219##0
+140##Modified Fibonacci golden nuggets##1170486000##1567523216##3999##0
+141##Investigating progressive numbers, <i>n</i>, which are also square##1171688400##1347992284##3594##0
+142##Perfect Square Collection##1172278800##1347992284##5426##0
+143##Investigating the Torricelli point of a triangle##1172869200##1552171511##2528##0
+144##Investigating multiple reflections of a laser beam##1173459600##1552156066##5807##0
+145##How many reversible numbers are there below one-billion?##1174050000##1347992284##15913##0
+146##Investigating a Prime Pattern ##1174726800##1347992284##4659##0
+147##Rectangles in cross-hatched grids##1175317200##1552156129##2782##0
+148##Exploring Pascal's triangle##1175907600##1347992284##4787##0
+149##Searching for a maximum-sum subsequence##1176498000##1347992284##4515##0
+150##Searching a triangular array for a sub-triangle having minimum-sum##1176498000##1552158336##3681##0
+151##Paper sheets of standard sizes: an expected-value problem##1177088400##1592863280##5141##0
+152##Writing 1/2 as a sum of inverse squares##1177678800##1552172537##2454##0
+153##Investigating Gaussian Integers##1178355600##1552225497##2384##0
+154##Exploring Pascal's pyramid##1178946000##1552225023##2422##0
+155##Counting Capacitor Circuits##1179536400##1552158862##3288##0
+156##Counting Digits##1180126800##1569055614##2212##0
+157##Solving the diophantine equation <sup>1</sup>/<sub><var>a</var></sub>+<sup>1</sup>/<sub><var>b</var></sub>= <sup><var>p</var></sup>/<sub>10<sup><var>n</var></sup></sub> ##1180717200##1347992284##2469##0
+158##Exploring strings for which only one character comes lexicographically after its neighbour to the left##1181912400##1347992284##3344##0
+159##Digital root sums of factorisations##1183208400##1569055761##3029##0
+160##Factorial trailing digits##1189170000##1347992284##3218##0
+161##Triominoes##1190394000##1552158893##1914##0
+162##Hexadecimal numbers##1191618000##1347992284##5000##0
+163##Cross-hatched triangles##1192237200##1552172599##1648##0
+164##Numbers for which no three consecutive digits have a sum greater than a given value##1192856400##1347992284##5362##0
+165##Intersections##1193475600##1347992284##2368##0
+166##Criss Cross##1194094800##1347992284##3762##0
+167##Investigating Ulam sequences##1194613200##1569055810##1531##0
+168##Number Rotations##1195232400##1347992284##2427##0
+169##Exploring the number of different ways a number can be expressed as a sum of powers of 2##1195851600##1347992284##4682##0
+170##Find the largest 0 to 9 pandigital that can be formed by concatenating products##1196470800##1347992284##1812##0
+171##Finding numbers for which the sum of the squares of the digits is a square##1197090000##1347992284##2530##0
+172##Investigating numbers with few repeated digits##1197709200##1347992284##3497##0
+173##Using up to one million tiles how many different "hollow" square laminae can be formed?##1198328400##1347992284##8590##0
+174##Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements##1198328400##1569055861##5490##0
+175##Fractions involving the number of different ways a number can be expressed as a sum of powers of 2##1198846800##1347992284##1615##0
+176##Right-angled triangles that share a cathetus##1199466000##1369917134##1730##0
+177##Integer angled Quadrilaterals##1200085200##1552172631##1155##0
+178##Step Numbers##1200704400##1347992284##3133##0
+179##Consecutive positive divisors##1201323600##1399573154##10639##0
+180##Rational zeros of a function of three variables##1201942800##1392461913##1442##0
+181##Investigating in how many ways objects of two different colours can be grouped##1202562000##1347992284##1814##0
+182##RSA encryption##1203080400##1347992284##2416##0
+183##Maximum product of parts##1203699600##1569055908##4377##0
+184##Triangles containing the origin##1204318800##1552172672##1484##0
+185##Number Mind##1204938000##1347992284##2878##0
+186##Connectedness of a network##1205557200##1552172739##2629##0
+187##Semiprimes##1206176400##1347992284##10566##0
+188##The hyperexponentiation of a number##1207314000##1347992284##6011##0
+189##Tri-colouring a triangular grid##1207929600##1552172765##1879##0
+190##Maximising a weighted product##1208552400##1399573263##3866##0
+191##Prize Strings##1209168000##1347992284##6625##0
+192##Best Approximations##1209787200##1568035439##1452##0
+193##Squarefree Numbers##1210420800##1347992284##3005##0
+194##Coloured Configurations##1211014800##1552172805##1263##0
+195##Inscribed circles of triangles with one angle of 60 degrees##1211547600##1347992284##1256##0
+196##Prime triplets##1212166800##1347992284##2333##0
+197##Investigating the behaviour of a recursively defined sequence##1212786000##1347992284##4600##0
+198##Ambiguous Numbers##1213405200##1568035567##1011##0
+199##Iterative Circle Packing##1214024400##1552172833##1758##0
+200##Find the 200th prime-proof sqube containing the contiguous sub-string "200"##1214643600##1347992284##2152##0
+201##Subsets with a unique sum##1215262800##1347992284##2106##0
+202##Laserbeam##1215262800##1552172846##2308##0
+203##Squarefree Binomial Coefficients##1220706000##1568034989##8620##0
+204##Generalised Hamming Numbers##1220706000##1347992284##6892##0
+205##Dice Game##1220706000##1347992284##14227##0
+206##Concealed Square##1220706000##1347992284##23330##0
+207##Integer partition equations##1220706000##1347992284##4449##0
+208##Robot Walks##1221224400##1552172857##1609##0
+209##Circular Logic##1221843600##1552173266##2328##0
+210##Obtuse Angled Triangles##1222462800##1347992284##1571##0
+211##Divisor Square Sum##1223082000##1347992284##3862##0
+212##Combined Volume of Cuboids##1223701200##1347992284##1246##0
+213##Flea Circus##1224320400##1347992284##2131##0
+214##Totient Chains##1224939600##1347992284##4841##0
+215##Crack-free Walls##1225458000##1552173291##3453##0
+216##Investigating the primality of numbers of the form 2<var>n</var><sup>2</sup>-1##1226077200##1347992284##3771##0
+217##Balanced Numbers##1226696400##1347992284##1370##0
+218##Perfect right-angled triangles##1227315600##1347992284##2847##0
+219##Skew-cost coding##1227934800##1347992284##1363##0
+220##Heighway Dragon##1228554000##1552173308##2047##0
+221##Alexandrian Integers##1229173200##1596145309##1910##0
+222##Sphere Packing##1229691600##1347992284##1941##0
+223##Almost right-angled triangles I##1230310800##1347992284##1374##0
+224##Almost right-angled triangles II##1230310800##1347992284##1105##0
+225##Tribonacci non-divisors##1230310800##1347992284##4176##0
+226##A Scoop of Blancmange##1230930000##1552225697##1610##0
+227##The Chase##1231549200##1592851064##1951##0
+228##Minkowski Sums##1232168400##1552173341##1211##0
+229##Four Representations using Squares##1232787600##1347992284##1354##0
+230##Fibonacci Words##1233406800##1569055953##2718##0
+231##The prime factorisation of binomial coefficients##1233925200##1568035081##5099##0
+232##The Race##1234544400##1592849684##1620##0
+233##Lattice points on a circle##1235163600##1347992284##2096##0
+234##Semidivisible numbers##1235782800##1347992284##3057##0
+235##An Arithmetic Geometric sequence##1236402000##1347992284##4693##0
+236##Luxury Hampers##1237021200##1347992284##845##0
+237##Tours on a 4 x n playing board##1237640400##1552173357##1438##0
+238##Infinite string tour##1238335200##1569056059##870##0
+239##Twenty-two Foolish Primes##1238774400##1347992284##1680##0
+240##Top Dice##1239397200##1347992284##2013##0
+241##Perfection Quotients##1240016400##1596147184##839##0
+242##Odd Triplets##1240635600##1347992284##952##0
+243##Resilience##1241254800##1347992284##8979##0
+244##Sliders##1241874000##1552173410##1203##0
+245##Coresilience##1242392400##1596146972##750##0
+246##Tangents to an ellipse##1243008000##1552173436##723##0
+247##Squares under a hyperbola##1243627200##1552173454##1340##0
+248##Numbers for which Euler’s totient function equals 13!##1244246400##1347992284##1186##0
+249##Prime Subset Sums##1244865600##1347992284##2357##0
+250##250250##1244865600##1347992284##2767##0
+251##Cardano Triplets##1245484800##1552225825##1247##0
+252##Convex Holes##1246104000##1552173465##751##0
+253##Tidying up##1251460800##1552173576##938##0
+254##Sums of Digit Factorials##1252080000##1569056111##867##0
+255##Rounded Square Roots##1252699200##1514729986##785##0
+256##Tatami-Free Rooms##1253318400##1347992284##660##0
+257##Angular Bisectors##1253937600##1552173600##615##0
+258##A lagged Fibonacci sequence##1254556800##1347992284##1452##0
+259##Reachable Numbers##1255176000##1347992284##1381##0
+260##Stone Game##1255694400##1593196409##1188##0
+261##Pivotal Square Sums##1256313600##1347992284##612##0
+262##Mountain Range##1256936400##1552173857##641##0
+263##An engineers' dream come true##1257555600##1347992284##927##0
+264##Triangle Centres##1258174800##1552173922##511##0
+265##Binary Circles##1258794000##1552173938##3917##0
+266##Pseudo Square Root##1259413200##1347992284##1542##0
+267##Billionaire##1259931600##1347992284##3130##0
+268##Counting numbers with at least four distinct prime factors less than 100##1260550800##1347992284##1308##0
+269##Polynomials with at least one integer root##1261213200##1347992284##619##0
+270##Cutting Squares##1261789200##1347992284##581##0
+271##Modular Cubes, part 1##1262408400##1347992284##2178##0
+272##Modular Cubes, part 2##1262408400##1347992284##857##0
+273##Sum of Squares##1263042000##1569056221##1248##0
+274##Divisibility Multipliers##1263560400##1347992284##1300##0
+275##Balanced Sculptures##1264179600##1347992284##543##0
+276##Primitive Triangles##1264798800##1347992284##979##0
+277##A Modified Collatz sequence##1265418000##1568035666##2982##0
+278##Linear Combinations of Semiprimes##1266037200##1568410079##941##0
+279##Triangles with integral sides and an integral angle ##1266656400##1347992284##638##0
+280##Ant and seeds##1267275600##1347992284##938##0
+281##Pizza Toppings##1267794000##1552173985##861##0
+282##The Ackermann function##1268413200##1517736438##907##0
+283##Integer sided triangles for which the  area/perimeter ratio is integral##1269032400##1347992284##584##0
+284##Steady Squares##1269651600##1347992284##1149##0
+285##Pythagorean odds##1270267200##1347992284##1092##0
+286##Scoring probabilities##1270267200##1347992284##1960##0
+287##Quadtree encoding (a simple compression algorithm)##1270886400##1596149775##1305##0
+288##An enormous factorial##1271505600##1347992284##1507##0
+289##Eulerian Cycles##1272024000##1347992284##439##0
+290##Digital Signature##1272643200##1444827966##893##0
+291##Panaitopol Primes##1273262400##1552174105##1307##0
+292##Pythagorean Polygons##1273881600##1347992284##523##0
+293##Pseudo-Fortunate Numbers##1274500800##1347992284##2719##0
+294##Sum of digits - experience #23##1275120000##1347992284##828##0
+295##Lenticular holes##1275739200##1347992284##414##0
+296##Angular Bisector and Tangent##1276257600##1552174121##521##0
+297##Zeckendorf Representation##1276876800##1569056270##2568##0
+298##Selective Amnesia##1277496000##1590136393##605##0
+299##Three similar triangles##1278115200##1552174133##560##0
+300##Protein folding##1283601600##1347992284##993##0
+301##Nim##1284217200##1592950255##5984##0
+302##Strong Achilles Numbers##1284832800##1347992284##681##0
+303##Multiples with small digits##1285448400##1552174415##3349##0
+304##Primonacci##1286064000##1569056306##1953##0
+305##Reflexive Position##1286679600##1569056336##551##0
+306##Paper-strip Game##1287295200##1592848882##1044##0
+307##Chip Defects##1287910800##1347992284##1509##0
+308##An amazing Prime-generating Automaton##1288440000##1596145486##687##0
+309##Integer Ladders##1289059200##1552174454##717##0
+310##Nim Square##1289674800##1347992284##1011##0
+311##Biclinic Integral Quadrilaterals##1290290400##1552174465##397##0
+312##Cyclic paths on Sierpiński graphs##1290906000##1552174485##762##0
+313##Sliding game##1291521600##1375096129##1467##0
+314##The Mouse on the Moon##1292137200##1552174502##464##0
+315##Digital root clocks##1292752800##1415307704##3111##0
+316##Numbers in decimal expansions##1293282000##1556876353##591##0
+317##Firecracker##1293897600##1347992284##2406##0
+318##2011 nines##1293897600##1568409547##825##0
+319##Bounded Sequences##1294513200##1347992284##363##0
+320##Factorials divisible by a huge integer##1295128800##1569056428##770##0
+321##Swapping Counters##1295744400##1375096207##1588##0
+322##Binomial coefficients divisible by 10##1296360000##1347992284##417##0
+323##Bitwise-OR operations on random integers##1296975600##1347992284##3581##0
+324##Building a tower##1297591200##1347992284##636##0
+325##Stone Game II##1298120400##1596052360##535##0
+326##Modulo Summations##1298736000##1520892726##475##0
+327##Rooms of Doom##1299351600##1569056514##1044##0
+328##Lowest-cost Search##1299967200##1552179846##369##0
+329##Prime Frog##1300582800##1347992284##2280##0
+330##Euler's Number##1301198400##1596178795##469##0
+331##Cross flips##1301814000##1552175900##351##0
+332##Spherical triangles##1302426000##1552175756##535##0
+333##Special partitions##1302955200##1347992284##1107##0
+334##Spilling the beans##1303570800##1552175943##427##0
+335##Gathering the beans##1303570800##1552175955##453##0
+336##Maximix Arrangements##1304186400##1552175970##1882##0
+337##Totient Stairstep Sequences##1304802000##1347992284##460##0
+338##Cutting Rectangular Grid Paper##1305417600##1347992284##292##0
+339##Peredur fab Efrawg##1306033200##1347992284##495##0
+340##Crazy Function##1306648800##1552176043##995##0
+341##Golomb's self-describing sequence##1307264400##1570171851##853##0
+342##The totient of a square is a cube##1307793600##1506522357##723##0
+343##Fractional Sequences##1308409200##1569056645##1282##0
+344##Silver dollar game##1309024800##1347992284##280##0
+345##Matrix Sum##1315062000##1593196080##5209##0
+346##Strong Repunits##1315062000##1347992284##3953##0
+347##Largest integer divisible by two primes##1315062000##1347992284##4193##0
+348##Sum of a square and a cube##1315062000##1347992284##2751##0
+349##Langton's ant##1315062000##1540929294##1745##0
+350##Constraining the least greatest and the greatest least##1315677600##1347992284##432##0
+351##Hexagonal orchards##1316293200##1552176068##2357##0
+352##Blood tests##1317513600##1569056689##535##0
+353##Risky moon##1318129200##1570171946##418##0
+354##Distances in a bee's honeycomb ##1318744800##1568409714##394##0
+355##Maximal coprime subset##1319360400##1347992284##475##0
+356##Largest roots of cubic polynomials##1319889600##1552176217##522##0
+357##Prime generating integers##1320508800##1347992284##7484##0
+358##Cyclic numbers##1321124400##1347992284##1481##0
+359##Hilbert's New Hotel##1321740000##1347992284##1397##0
+360##Scary Sphere##1322355600##1347992284##543##0
+361##Subsequence of Thue-Morse sequence##1322971200##1552176277##269##0
+362##Squarefree factors##1323586800##1569056772##423##0
+363##Bézier Curves##1324202400##1596149521##972##0
+364##Comfortable distance##1324731600##1552176304##632##0
+365##A huge binomial coefficient##1325347200##1570172206##1099##0
+366##Stone Game III##1325962800##1569056853##599##0
+367##Bozo sort##1326578400##1392437361##444##0
+368##A Kempner-like series##1327194000##1598305323##492##0
+369##Badugi##1327809600##1569056891##420##0
+370##Geometric triangles##1328425200##1412048817##470##0
+371##Licence plates##1329040800##1588896153##1477##0
+372##Pencils of rays##1329570000##1517736926##363##0
+373##Circumscribed Circles##1330185600##1347992284##310##0
+374##Maximum Integer Partition Product##1330801200##1569056940##609##0
+375##Minimum of subsequences##1331416800##1570172383##799##0
+376##Nontransitive sets of dice##1332032400##1347992284##242##0
+377##Sum of digits, experience 13##1332648000##1408261207##637##0
+378##Triangle Triples##1333260000##1596146308##764##0
+379##Least common multiple count##1333879200##1347992284##458##0
+380##Amazing Mazes!##1334408400##1552176357##457##0
+381##(prime-k) factorial##1335024000##1569057065##3870##0
+382##Generating polygons##1335639600##1347992284##299##0
+383##Divisibility comparison between factorials##1336255200##1347992284##439##0
+384##Rudin-Shapiro sequence##1336870800##1569057161##299##0
+385##Ellipses inside triangles##1337486400##1569058641##252##0
+386##Maximum length of an antichain##1338102000##1569057201##658##0
+387##Harshad Numbers##1338717600##1347992284##4321##0
+388##Distinct Lines##1339246800##1347992284##509##0
+389##Platonic Dice##1339862400##1347992284##1384##0
+390##Triangles with non rational sides and integral area##1340478000##1568409817##523##0
+391##Hopping Game##1341093600##1593196255##251##0
+392##Enmeshed unit circle##1346504400##1456961713##691##0
+393##Migrating ants##1347120000##1347992284##689##0
+394##Eating pie##1347735600##1347992284##478##0
+395##Pythagorean tree##1348351200##1348382769##624##0
+396##Weak Goodstein sequence##1348966800##1569057280##595##0
+397##Triangle on parabola##1349582400##1349441822##242##0
+398##Cutting rope##1350198000##1350115874##325##0
+399##Squarefree Fibonacci Numbers##1350813600##1362391714##510##0
+400##Fibonacci tree game##1351342800##1552176458##411##0
+401##Sum of squares of divisors##1352563200##1569057323##2293##0
+402##Integer-valued polynomials##1353178800##1569057358##350##0
+403##Lattice points enclosed by parabola and line##1353794400##1353679545##321##0
+404##Crisscross Ellipses##1354410000##1354441847##291##0
+405##A rectangular tiling##1355025600##1354918011##533##0
+406##Guessing Game##1355641200##1568409939##338##0
+407##Idempotents##1356256800##1569057395##2198##0
+408##Admissible paths through a grid##1356786000##1356664348##504##0
+409##Nim Extreme##1357401600##1357270722##411##0
+410##Circle and tangent line##1358017200##1357913303##248##0
+411##Uphill paths##1358632800##1569057426##563##0
+412##Gnomon numbering##1359248400##1552176733##437##0
+413##One-child Numbers##1359864000##1359781266##345##0
+414##Kaprekar constant##1360479600##1361024042##247##0
+415##Titanic sets##1361095200##1360969121##267##0
+416##A frog's trip##1361624400##1361493062##259##0
+417##Reciprocal cycles II##1362240000##1569057476##747##0
+418##Factorisation triples##1362855600##1362663179##613##0
+419##Look and say sequence##1363471200##1363296774##437##0
+420##2x2 positive integer matrix##1364086800##1552176889##389##0
+421##Prime factors of <var>n</var><sup>15</sup>+1##1364698800##1569057508##572##0
+422##Sequence of points on a hyperbola##1365314400##1552176928##237##0
+423##Consecutive die throws##1365930000##1569057675##429##0
+424##Kakuro##1366459200##1552176942##352##0
+425##Prime connection##1367074800##1366992588##1297##0
+426##Box-ball system##1367690400##1367552381##223##0
+427##n-sequences##1368306000##1368128608##261##0
+428##Necklace of circles##1368921600##1552176961##214##0
+429##Sum of squares of unitary divisors##1369537200##1369337868##2313##0
+430##Range flips##1370152800##1552177198##771##0
+431##Square Space Silo##1370768400##1552177210##544##0
+432##Totient sum##1371297600##1371131135##425##0
+433##Steps in Euclid's algorithm##1371913200##1371737250##434##0
+434##Rigid graphs##1372528800##1569057724##305##0
+435##Polynomials of Fibonacci numbers##1378566000##1570172722##967##0
+436##Unfair wager##1379181600##1596144503##395##0
+437##Fibonacci primitive roots##1379797200##1379665073##688##0
+438##Integer part of polynomial equation's solutions##1380412800##1569057797##249##0
+439##Sum of sum of divisors##1381028400##1494621142##333##0
+440##GCD and Tiling##1381644000##1569057849##324##0
+441##The inverse summation of coprime couples##1382259600##1382164716##317##0
+442##Eleven-free integers##1382788800##1382693782##352##0
+443##GCD sequence##1383408000##1383252214##1012##0
+444##The Roundtable Lottery##1384023600##1593195866##270##0
+445##Retractions A##1384639200##1570350940##331##0
+446##Retractions B##1384639200##1570351075##311##0
+447##Retractions C##1384639200##1570351132##244##0
+448##Average least common multiple##1385254800##1569057908##290##0
+449##Chocolate covered candy##1386475200##1596146548##804##0
+450##Hypocycloid and Lattice points##1387090800##1596148548##175##0
+451##Modular inverses##1387706400##1569057940##1259##0
+452##Long Products##1388235600##1388355197##507##0
+453##Lattice Quadrilaterals##1388851200##1552178456##193##0
+454##Diophantine reciprocals III##1389466800##1552178517##409##0
+455##Powers With Trailing Digits##1390082400##1569057979##633##0
+456##Triangles containing the origin II##1390698000##1390580811##367##0
+457##A polynomial modulo the square of a prime##1391313600##1569058014##681##0
+458##Permutations of Project##1391929200##1391724191##823##0
+459##Flipping game##1392544800##1552179191##207##0
+460##An ant on the move##1393074000##1392998591##293##0
+461##Almost Pi##1393689600##1393538258##1067##0
+462##Permutation of 3-smooth numbers##1394305200##1394198345##274##0
+463##A weird recurrence relation##1394920800##1394934620##968##0
+464##Möbius function and intervals##1395536400##1395538449##271##0
+465##Polar polygons##1396152000##1396086181##191##0
+466##Distinct terms in a multiplication table##1396764000##1396601298##278##0
+467##Superinteger##1397379600##1397221198##384##0
+468##Smooth divisors of binomial coefficients##1397908800##1568035180##240##0
+469##Empty chairs##1398524400##1398685247##660##0
+470##Super Ramvok##1399140000##1569058069##205##0
+471##Triangle inscribed in ellipse##1399755600##1399633828##189##0
+472##Comfortable Distance II##1400371200##1569058122##241##0
+473##Phigital number base##1400986800##1458838897##649##0
+474##Last digits of divisors##1401602400##1401462953##363##0
+475##Music festival##1402218000##1593647277##392##0
+476##Circle Packing II##1402747200##1402614867##374##0
+477##Number Sequence Game##1408806000##1593647212##231##0
+478##Mixtures##1409421600##1463500828##160##0
+479##Roots on the Rise##1410037200##1570351266##1133##0
+480##The Last Question##1410652800##1410487775##510##0
+481##Chef Showdown##1411268400##1411231156##204##0
+482##The incenter of a triangle##1411884000##1569058159##189##0
+483##Repeated permutation##1412499600##1412370165##185##0
+484##Arithmetic Derivative##1413028800##1569058234##271##0
+485##Maximum number of divisors##1413644400##1413532173##1014##0
+486##Palindrome-containing strings##1414260000##1414465343##219##0
+487##Sums of power sums##1414879200##1569058274##567##0
+488##Unbalanced Nim##1415494800##1415498700##205##0
+489##Common factors between two sequences##1416110400##1569058308##197##0
+490##Jumping frog##1416726000##1416551871##249##0
+491##Double pandigital number divisible by 11##1417341600##1417189355##1912##0
+492##Exploding sequence##1417870800##1417761734##307##0
+493##Under The Rainbow##1418486400##1540930415##4780##0
+494##Collatz prefix families##1419102000##1418980181##183##0
+495##Writing n as the product of k distinct positive integers##1419717600##1419599698##237##0
+496##Incenter and circumcenter of triangle##1420333200##1420203856##267##0
+497##Drunken Tower of Hanoi##1420948800##1421183511##438##0
+498##Remainder of polynomial division##1421564400##1421466131##450##0
+499##St. Petersburg Lottery##1422180000##1593648388##271##0
+500##Problem 500!!!##1422709200##1422562737##3578##0
+501##Eight Divisors##1422709200##1422562752##1157##0
+502##Counting Castles##1423324800##1423980621##237##0
+503##Compromise or persist##1423940400##1423860530##274##0
+504##Square on the Inside##1424556000##1424462719##2751##0
+505##Bidirectional Recurrence##1425171600##1425042138##185##0
+506##Clock sequence##1425787200##1425645514##767##0
+507##Shortest Lattice Vector##1426402800##1426245462##183##0
+508##Integers in base i-1##1427018400##1426862129##204##0
+509##Divisor Nim##1427547600##1440274230##498##0
+510##Tangent Circles##1428159600##1569058360##902##0
+511##Sequences with nice divisibility properties##1428775200##1428663949##367##0
+512##Sums of totients of powers##1429390800##1429298198##1324##0
+513##Integral median##1430006400##1429786202##271##0
+514##Geoboard Shapes##1430622000##1442512606##190##0
+515##Dissonant Numbers##1431237600##1431139696##404##0
+516##5-smooth totients##1431853200##1431718169##1387##0
+517##A real recursion##1432382400##1432203031##411##0
+518##Prime triples and geometric sequences##1432998000##1481066635##1423##0
+519##Tricoloured Coin Fountains##1433613600##1540929448##305##0
+520##Simbers##1434229200##1569058397##351##0
+521##Smallest prime factor##1434844800##1434786162##657##0
+522##Hilbert's Blackout##1435460400##1435279283##228##0
+523##First Sort I##1441519200##1441415181##864##0
+524##First Sort II##1441519200##1441415195##185##0
+525##Rolling Ellipse##1442134800##1442017277##432##0
+526##Largest prime factors of consecutive numbers##1442664000##1442578569##267##0
+527##Randomized Binary Search##1443279600##1443222299##643##0
+528##Constrained Sums##1443895200##1569058467##238##0
+529##10-substrings##1444510800##1444423121##209##0
+530##GCD of Divisors##1445126400##1445027072##381##0
+531##Chinese leftovers##1445745600##1569058533##978##0
+532##Nanobots on Geodesics##1446361200##1540929128##268##0
+533##Minimum values of the Carmichael function##1446976800##1446847321##284##0
+534##Weak Queens##1447506000##1554656751##255##0
+535##Fractal Sequence##1448121600##1447979633##252##0
+536##Modulo power identity ##1448737200##1448615245##245##0
+537##Counting tuples##1449352800##1449235607##532##0
+538##Maximum quadrilaterals##1449968400##1569058576##282##0
+539##Odd elimination##1450584000##1450452451##710##0
+540##Counting primitive Pythagorean triples##1451199600##1521738030##528##0
+541##Divisibility of Harmonic Number Denominators##1451815200##1451703931##173##0
+542##Geometric Progression with Maximum Sum##1452344400##1452295839##199##0
+543##Prime-Sum Numbers##1452960000##1452961287##593##0
+544##Chromatic Conundrum##1453575600##1540929226##208##0
+545##Faulhaber's Formulas##1454191200##1454081512##453##0
+546##The Floor's Revenge##1454806800##1454807793##198##0
+547##Distance of random points within hollow square laminae##1455422400##1457002699##182##0
+548##Gozinta Chains##1456038000##1455914194##523##0
+549##Divisibility of factorials##1456653600##1456562971##2409##0
+550##Divisor game##1457182800##1593648308##289##0
+551##Sum of digits sequence##1457798400##1457651768##405##0
+552##Chinese leftovers II##1458414000##1458316535##374##0
+553##Power sets of power sets##1459029600##1458928051##183##0
+554##Centaurs on a chess board##1459641600##1459549057##191##0
+555##McCarthy 91 function##1460257200##1460102976##602##0
+556##Squarefree Gaussian Integers##1460872800##1460902732##204##0
+557##Cutting triangles##1461488400##1461351458##251##0
+558##Irrational base##1462017600##1461882243##218##0
+559##Permuted Matrices##1462633200##1462532426##157##0
+560##Coprime Nim##1463248800##1463100163##253##0
+561##Divisor Pairs##1463864400##1463730844##655##0
+562##Maximal perimeter##1464480000##1464375568##165##0
+563##Robot Welders##1465095600##1593648231##287##0
+564##Maximal polygons##1465711200##1465580038##207##0
+565##Divisibility of sum of divisors##1466326800##1466236237##525##0
+566##Cake Icing Puzzle##1466856000##1500108849##131##0
+567##Reciprocal games I##1472914800##1473624577##238##0
+568##Reciprocal games II##1472914800##1473624540##230##0
+569##Prime Mountain Range##1473530400##1473419586##348##0
+570##Snowflakes##1474146000##1570083862##240##0
+571##Super Pandigital Numbers##1474761600##1474596738##953##0
+572##Idempotent matrices##1475377200##1475258603##287##0
+573##Unfair race##1475992800##1593648167##173##0
+574##Verifying Primes##1476608400##1476468319##234##0
+575##Wandering Robots##1477137600##1552180362##489##0
+576##Irrational jumps##1477753200##1477940127##198##0
+577##Counting hexagons##1478977200##1481196375##1364##0
+578##Integers with decreasing prime powers##1479592800##1479503756##194##0
+579##Lattice points in lattice cubes##1480208400##1480107912##131##0
+580##Squarefree Hilbert numbers##1480824000##1480706793##203##0
+581##47-smooth triangular numbers##1481439600##1481316383##730##0
+582##Nearly isosceles 120 degree triangles##1482055200##1482087824##271##0
+583##Heron Envelopes##1482584400##1482486694##327##0
+584##Birthday Problem Revisited##1483200000##1483252075##160##0
+585##Nested square roots##1483815600##1483711609##140##0
+586##Binary Quadratic Form##1484431200##1486213147##191##0
+587##Concave triangle##1485046800##1552180400##2676##0
+588##Quintinomial coefficients##1485662400##1485545934##365##0
+589##Poohsticks Marathon##1486278000##1486161496##162##0
+590##Sets with a given Least Common Multiple##1486893600##1486740144##227##0
+591##Best Approximations by Quadratic Integers##1487422800##1487312579##162##0
+592##Factorial trailing digits 2##1488038400##1487896976##240##0
+593##Fleeting Medians##1488654000##1488513430##453##0
+594##Rhombus Tilings##1489269600##1489117128##164##0
+595##Incremental Random Sort##1489885200##1489774823##540##0
+596##Number of lattice points in a hyperball##1490497200##1493216424##305##0
+597##Torpids##1491112800##1490988218##131##0
+598##Split Divisibilities##1491728400##1491591466##417##0
+599##Distinct Colourings of a Rubik's Cube##1492257600##1492110728##256##0
+600##Integer sided equiangular hexagons##1492873200##1492738903##522##0
+601##Divisibility streaks##1493488800##1493374475##1754##0
+602##Product of Head Counts##1494104400##1494001921##417##0
+603##Substring sums of prime concatenations##1494720000##1494565009##353##0
+604##Convex path in square##1495335600##1495180830##439##0
+605##Pairwise Coin-Tossing Game##1495951200##1495818500##718##0
+606##Gozinta Chains II##1496566800##1496426412##324##0
+607##Marsh Crossing##1497096000##1497002052##1469##0
+608##Divisor Sums##1497711600##1497616169##263##0
+609##π sequences##1504969200##1510744230##788##0
+610##Roman Numerals II##1506189600##1581494531##488##0
+611##Hallway of square steps##1507410000##1507289839##277##0
+612##Friend numbers##1508630400##1509909018##564##0
+613##Pythagorean Ant##1509854400##1509958992##1517##0
+614##Special partitions 2##1511074800##1510923197##267##0
+615##The millionth number with at least one million prime factors##1512295200##1512151991##500##0
+616##Creative numbers##1513429200##1513243878##421##0
+617##Mirror Power Sequence##1514649600##1516893845##340##0
+618##Numbers with a given prime factor sum##1515870000##1515748560##857##0
+619##Square subsets##1517090400##1516950746##347##0
+620##Planetary Gears##1518310800##1518160230##159##0
+621##Expressing an integer as the sum of triangular numbers##1519531200##1519375010##481##0
+622##Riffle Shuffles##1520751600##1520601539##1442##0
+623##Lambda Count##1521968400##1522306392##275##0
+624##Two heads are better than one##1523102400##1523046798##518##0
+625##Gcd sum##1524322800##1524210815##484##0
+626##Counting Binary Matrices##1525543200##1525424693##195##0
+627##Counting products##1526763600##1526502631##214##0
+628##Open chess positions##1527984000##1527913705##675##0
+629##Scatterstone Nim##1529204400##1529007770##207##0
+630##Crossed lines##1530424800##1530273733##832##0
+631##Constrained Permutations##1531645200##1531497625##173##0
+632##Square prime factors##1532779200##1532628723##387##0
+633##Square prime factors II##1532779200##1583503852##278##0
+634##Numbers of the form $a^2b^3$##1533999600##1533915941##512##0
+635##Subset sums##1535220000##1534924489##283##0
+636##Restricted Factorisations##1536440400##1553764930##143##0
+637##Flexible digit sum##1537660800##1537507498##270##0
+638##Weighted lattice paths##1538881200##1552180111##319##0
+639##Summing a multiplicative function##1540101600##1539953542##202##0
+640##Shut the Box##1540720800##1540625227##284##0
+641##A Long Row of Dice##1541250000##1541128512##368##0
+642##Sum of largest prime factors##1541865600##1541703558##298##0
+643##2-Friendly##1542481200##1542541561##475##0
+644##Squares on the line##1543096800##1552180129##134##0
+645##Every Day is a Holiday##1543712400##1543586631##169##0
+646##Bounded Divisors##1544328000##1544213606##239##0
+647##Linear Transformations of Polygonal Numbers##1544943600##1544778605##357##0
+648##Skipping Squares##1545559200##1545966591##238##0
+649##Low-Prime Chessboard Nim##1546088400##1546095132##321##0
+650##Divisors of Binomial Product##1546704000##1546593726##1229##0
+651##Patterned Cylinders##1547319600##1547194332##143##0
+652##Distinct values of a proto-logarithmic function##1547935200##1547738322##145##0
+653##Frictionless Tube##1548550800##1548398706##261##0
+654##Neighbourly Constraints##1549166400##1549004419##282##0
+655##Divisible Palindromes##1549782000##1549639483##407##0
+656##Palindromic sequences##1550397600##1550668735##211##0
+657##Incomplete words##1550926800##1550769658##411##0
+658##Incomplete words II##1550926800##1550769685##202##0
+659##Largest prime##1551542400##1551443418##698##0
+660##Pandigital Triangles##1552158000##1552009468##245##0
+661##A Long Chess Match##1552773600##1593648529##192##0
+662##Fibonacci paths##1553389200##1553260016##583##0
+663##Sums of subarrays##1554001200##1554365576##279##0
+664##An infinite game##1554616800##1554484927##164##0
+665##Proportionate Nim##1555232400##1593648560##211##0
+666##Polymorphic Bacteria##1555761600##1555623194##222##0
+667##Moving Pentagon##1556377200##1556280459##181##0
+668##Square root smooth Numbers##1556992800##1556904297##823##0
+669##The King's Banquet##1557608400##1557487486##268##0
+670##Colouring a Strip##1558224000##1558115903##267##0
+671##Colouring a Loop##1558224000##1558115868##137##0
+672##One more one##1558839600##1559044431##228##0
+673##Beds and Desks##1559455200##1593648101##267##0
+674##Solving $\mathcal{I}$-equations##1560070800##1559923734##149##0
+675##$2^{\omega(n)}$##1560600000##1560499654##571##0
+676##Matching Digit Sums##1561215600##1561092366##200##0
+677##Coloured Graphs##1561831200##1561712402##147##0
+678##Fermat-like Equations##1567890000##1567764525##191##0
+679##Freefarea##1568505600##1568390404##624##0
+680##Yarra Gnisrever##1569121200##1568977561##155##0
+681##Maximal Area##1569736800##1569595121##193##0
+682##5-Smooth Pairs##1570352400##1570198081##223##0
+683##The Chase II##1570881600##1593648477##268##0
+684##Inverse Digit Sum##1571497200##1571326846##1450##0
+685##Inverse Digit Sum II##1571497200##1571326865##171##0
+686##Powers of Two##1572112800##1572071964##1884##0
+687##Shuffling Cards##1572732000##1572558986##222##0
+688##Piles of Plates##1573347600##1574103731##559##0
+689##Binary Series##1573963200##1573811351##187##0
+690##Tom and Jerry##1574578800##1574423308##151##0
+691##Long substring with many repetitions##1575194400##1575753573##222##0
+692##Siegbert and Jo##1575723600##1575555326##786##0
+693##Finite Sequence Generator##1576339200##1576232463##241##0
+694##Cube-full Divisors##1576954800##1576817316##638##0
+695##Random Rectangles##1577570400##1577573190##165##0
+696##Mahjong##1578186000##1578069466##97##0
+697##Randomly Decaying Sequence##1578801600##1578642153##410##0
+698##123 Numbers##1579417200##1579286386##329##0
+699##Triffle Numbers##1580032800##1590137379##143##0
+700##Eulercoin##1580562000##1580464120##1491##0
+701##Random connected area##1581177600##1581022058##235##0
+702##Jumping Flea##1581793200##1581671227##112##0
+703##Circular Logic II##1582408800##1582238787##235##0
+704##Factors of Two in Binomial Coefficients##1583024400##1582891087##585##0
+705##Total Inversion Count of Divided Sequences##1583640000##1583468381##312##0
+706##3-Like Numbers##1584255600##1584082929##373##0
+707##Lights Out##1584871200##1584650766##167##0
+708##Twos are all you need##1585400400##1585293696##222##0
+709##Even Stevens##1586016000##1585933457##449##0
+710##One Million Members##1586631600##1586374852##546##0
+711##Binary Blackboard##1586631600##1586374859##250##0
+712##Exponent Difference##1587247200##1587109938##326##0
+713##Turán's water heating system##1587862800##1587890291##430##0
+714##Duodigits##1588478400##1588148824##474##0
+715##Sextuplet Norms##1589094000##1588868357##142##0
+716##Grid Graphs##1589709600##1589787163##179##0
+717##Summation of a Modular Formula##1590238800##1590087058##282##0
+718##Unreachable Numbers##1590854400##1590692622##240##0
+719##Number Splitting##1591470000##1591331732##884##0
+720##Unpredictable Permutations##1592085600##1596222272##211##0
+721##High powers of irrational numbers##1592701200##1592554964##241##0
+722##Slowly converging series##1593316800##1593159437##278##0
+723##Pythagorean Quadrilaterals##1593932400##1593865810##137##0
+724##Drone Delivery##1599310800##1599142281##185##0
+725##Digit sum numbers##1599926400##1599826944##143##0
