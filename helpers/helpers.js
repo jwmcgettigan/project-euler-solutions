@@ -31,6 +31,12 @@ const range = (start, stop, step=1) => {
   }
 }
 
+/** Finds the greatest common divisor. */
+const gcd = (a, b) => {
+  return !b ? a : gcd(b, a % b);
+};
+
 module.exports = {
-  range
+  range,
+  gcd
 }

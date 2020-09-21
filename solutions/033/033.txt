@@ -1,0 +1,8 @@
+" My thought process:
+find 4 non-trivial digit-cancelling fractions
+- fraction must be less than 1 in value
+- numerator (n) and denomenator (d) must have a common digit
+- the digit-cancelling fraction (cn/cd) must not be divisible by 10 into n/d
+- the value of (cn/cd) must equal (n/d)
+find the reduced denominator of the product of these 4 fractions
+"
