@@ -25,9 +25,9 @@ for fileType in "${fileTypes[@]}"; do
   sed -i -e "s/TITLE/$probTitle/g" "solutions/$probNum/$probNum$fileType"
 done
 
-placeholderText="The folder this file is in contains templates
-for easing the creation of new files for each problem."
-sed -i -e "s/$placeholderText//g" "solutions/$probNum/$probNum.txt"
+#placeholderText="The folder this file is in contains templates
+#for easing the creation of new files for each problem."
+#sed -i -e "s/$placeholderText//g" "solutions/$probNum/$probNum.txt"
 
 : '
 for i in {1..22}
