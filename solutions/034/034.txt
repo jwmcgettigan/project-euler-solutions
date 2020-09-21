@@ -1,0 +1,60 @@
+Project Euler - Problem Solution 034
+Problem Title - Digit factorials
+Copyright (c) Justin McGettigan. All rights reserved.
+https://github.com/jwmcgettigan/project-euler-solutions
+-------------------------------------------------------
+!!! This note is focused on my Python solution.
+
+I essentialy adjusted my solution to problem '#030'.
+
+Determining the upper bound:
+find where: x(9!) = an x digit number
+
+x | number  | does x(9!) = an x digit number?
+----------------
+1 | 362880  | X
+2 | 725760  | X
+3 | 1088640 | X
+4 | 1451520 | X
+5 | 1814400 | X
+6 | 2177280 | X
+7 | 2540160 | ✓
+
+thus, 2540160 is our upper bound
+-------------------------------------------------------------------------------
+A method of improving performance that I used was
+pre-calculating the factorials for 0-9.  This provided
+a tremendous speed improvement.
+
+--- Precalculating Factorials for 0-9 ---
+factorials = [factorial(i) for i in range(10)]
+
+This improved completion time by ~14.3s.
+ - e.g. from ~20.8s to ~6.5s
+ -------------------------------------------------------------------------------
+Another method of improving performance that I used was
+switching from the string based digit traversal
+method that I used in problem '#030' to a math based
+digit traversal method.  Examples below:
+
+--- String-Based Digit Traversal ---
+def digit_factorial_sum(factorials, n):
+  s = 0
+  for digit in str(n):
+    s += factorials[int(digit)]
+  return s
+
+--- Math-Based Digit Traversal ---
+def digit_factorial_sum(factorials, n):
+  s = 0
+  while n:
+    s += factorials[n % 10]
+    n //= 10
+  return s
+
+The math-based solution improved the completion time by ~1.7s.
+ - e.g. from ~6.6s to ~4.9s
+-------------------------------------------------------------------------------
+Overall, I got the completion time down to:
+ - Python: ~4.9s
+ - JavaScript: ~0.22s

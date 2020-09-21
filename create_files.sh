@@ -14,27 +14,29 @@ done < "problems.txt"
 
 #-----------------------------------------------------
 
-prob_num=$(printf "%03d" $1)
-prob_title=${problems[$1]}
+probNum=$(printf "%03d" $1)
+probTitle=${problems[$1]}
+fileTypes=('.js' '.py' '.txt')
 
-mkdir "solutions/$prob_num"
-cp "solutions/001/001.js" "solutions/$prob_num/$prob_num.js"
-cp "solutions/001/001.py" "solutions/$prob_num/$prob_num.py"
+mkdir "solutions/$probNum"
+for fileType in "${fileTypes[@]}"; do
+  cp "solutions/000/000$fileType" "solutions/$probNum/$probNum$fileType"
+  sed -i -e "s/###/$probNum/g" "solutions/$probNum/$probNum$fileType"
+  sed -i -e "s/TITLE/$probTitle/g" "solutions/$probNum/$probNum$fileType"
+done
 
-sed -i -e "s/001/$prob_num/g" "solutions/$prob_num/$prob_num.js"
-sed -i -e "s/001/$prob_num/g" "solutions/$prob_num/$prob_num.py"
-
-sed -i -e "s/Multiples of 3 and 5/$prob_title/g" "solutions/$prob_num/$prob_num.js"
-sed -i -e "s/Multiples of 3 and 5/$prob_title/g" "solutions/$prob_num/$prob_num.py"
+placeholderText="The folder this file is in contains templates
+for easing the creation of new files for each problem."
+sed -i -e "s/$placeholderText//g" "solutions/$probNum/$probNum.txt"
 
 : '
 for i in {1..22}
 do
-  prob_num=$(printf "%03d" $i)
-  #mkdir "solutions/$prob_num"
-  #mv "python/$prob_num.py" "solutions/$prob_num"
-  #mv "javascript/$prob_num.js" "solutions/$prob_num"
-  #mv "notes/$prob_num.txt" "solutions/$prob_num"
+  probNum=$(printf "%03d" $i)
+  #mkdir "solutions/$probNum"
+  #mv "python/$probNum.py" "solutions/$probNum"
+  #mv "javascript/$probNum.js" "solutions/$probNum"
+  #mv "notes/$probNum.txt" "solutions/$probNum"
 done
 
 #mv "resources/p022_names.txt" "solutions/022"
