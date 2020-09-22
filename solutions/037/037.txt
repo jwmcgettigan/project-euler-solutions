@@ -1,0 +1,25 @@
+Project Euler - Problem Solution 037
+Problem Title - Truncatable primes
+Copyright (c) Justin McGettigan. All rights reserved.
+https://github.com/jwmcgettigan/project-euler-solutions
+-------------------------------------------------------
+
+I haven't the first clue of how to otherwise bound this problem
+so I'm going to use the told limit of 11 primes as my bound.
+(i.e. keep searching until 11 truncatable primes are found)
+
+I need functions for:
+1. Traversing prime numbers.
+2. Determining if a prime is 'truncatable'.
+  - Can't include numbers that are a part of a larger truncatable prime.
+
+I refer to problem '#007' for this problem's solution.
+
+I feel like there is a way to start the range for the prime
+search at a higher number than 2 after the first loop but I'm not sure
+how to go about it.  I need to create a visualization of this method
+to fully understand how it is actually working.
+
+The runtime of my first solution is:
+  - Python: ~1.5s
+  - JavaScript: ~1s

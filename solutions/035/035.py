@@ -7,8 +7,7 @@ https://github.com/jwmcgettigan/project-euler-solutions
 
 def primes_below_n(n) -> set:
   ''' The set of primes below a limit n. '''
-  composites = set()
-  primes = set()
+  primes, composites = set(), set()
   for i in range(2, n+1):
     if i not in composites:
       primes.add(i)
@@ -17,7 +16,7 @@ def primes_below_n(n) -> set:
   return primes
 
 def rotated_digits(num) -> 'Generator[int]':
-  ''' Generates every other digit rotation of a number. '''
+  ''' Generates every digit rotation of a number. '''
   digits = str(num)
   for i in range(len(digits)-1):
     digits = digits[-1] + digits[:-1]

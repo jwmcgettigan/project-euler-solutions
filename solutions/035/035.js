@@ -7,8 +7,7 @@
 
 /** The set of primes below a limit n. */
 const primesBelow_n = (n) => {
-  const composites = new Set();
-  const primes = new Set();
+  const primes = new Set(), composites = new Set();
   for(let i = 2; i < n+1; i++) {
     if(!composites.has(i)) {
       primes.add(i);

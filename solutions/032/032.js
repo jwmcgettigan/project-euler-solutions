@@ -5,6 +5,13 @@
  * https://github.com/jwmcgettigan/project-euler-solutions
  */
 
+/** Return the sum of all elements in an iterable of numbers. */
+const sum = (iterable) => {
+  let s = 0;
+  iterable.forEach((num) => { s += num; });
+  return s;
+}
+
 const set = (iterable) => new Set(iterable);
 
 function equalSets(a, b) {
@@ -43,9 +50,8 @@ const pandigitalProducts = () => {
       }
     }
   }
-  let sumOfProducts = 0;
-  products.forEach((num) => { sumOfProducts += num; });
-  return sumOfProducts;
+
+  return sum(products);
 };
 
 console.log(pandigitalProducts());
