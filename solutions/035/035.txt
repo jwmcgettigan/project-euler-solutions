@@ -1,0 +1,27 @@
+Project Euler - Problem Solution 035
+Problem Title - Circular primes
+Copyright (c) Justin McGettigan. All rights reserved.
+https://github.com/jwmcgettigan/project-euler-solutions
+-------------------------------------------------------
+
+My approach to this problem is pretty straightforward.
+
+I extracted from the problem the following tasks:
+1. Find all primes below one million.
+  - Put them into a set().
+2. Loop through every prime.
+  - Rotate the digits of each prime.
+    - Check whether each rotated prime is also a prime. 
+    - If any rotation is not a prime, then the original prime is not circular.
+  - If it is not a circular prime, then continue onto the next prime.
+  - If it is a circular prime, then add it to the number of circular primes.
+
+--- Psuedocode ---
+total = 0
+primes = primes_below_n
+for prime in primes:
+  for each rotated_digit in prime:
+    if rotated_digit is not prime:
+      continue to the next prime
+  total++
+return total
