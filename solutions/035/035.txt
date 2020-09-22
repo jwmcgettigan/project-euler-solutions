@@ -4,8 +4,6 @@ Copyright (c) Justin McGettigan. All rights reserved.
 https://github.com/jwmcgettigan/project-euler-solutions
 -------------------------------------------------------
 
-My approach to this problem is pretty straightforward.
-
 I extracted from the problem the following tasks:
 1. Find all primes below one million.
   - Put them into a set().

@@ -1,0 +1,11 @@
+Project Euler - Problem Solution 036
+Problem Title - Double-base palindromes
+Copyright (c) Justin McGettigan. All rights reserved.
+https://github.com/jwmcgettigan/project-euler-solutions
+-------------------------------------------------------
+
+I need functions for:
+1. checking whether a number is palindromic.
+  - Remove leading zeros.
+2. converting a decimal number to binary.
+  - Use built-in or make my own?
