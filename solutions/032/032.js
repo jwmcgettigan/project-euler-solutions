@@ -12,14 +12,17 @@ const sum = (iterable) => {
   return s;
 }
 
+/** Turns iterable into a Set(). */
 const set = (iterable) => new Set(iterable);
 
+/** Compares whether two sets contain the same elements. */
 function equalSets(a, b) {
   if (a.size !== b.size) return false;
   for (const i of a) if (!b.has(i)) return false;
   return true;
 }
 
+/** Checks if a number contains all digits among 1-9. */
 const isPandigital = (identity) => (
   identity.length === 9 && equalSets(set(identity), set('123456789'))
 );

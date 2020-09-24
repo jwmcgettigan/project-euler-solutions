@@ -1,0 +1,26 @@
+Project Euler - Problem Solution 038
+Problem Title - Pandigital multiples
+Copyright (c) Justin McGettigan. All rights reserved.
+https://github.com/jwmcgettigan/project-euler-solutions
+-------------------------------------------------------
+
+Determining the upper bound:
+
+num*(1,2,...n)  | concat-product | does concat-product have 9 digits?
+9 x (1,2)       = 9|18           | X
+9 x (1,2,3)     = 9|18|27        | X
+9 x (1,2,3,4)   = 9|18|27|36     | X
+9 x (1,2,3,4,5) = 9|18|27|36|45  | ✓
+----------------------------------
+99 x (1,2)      = 99|198         | X
+99 x (1,2,3)    = 99|198|297     | X
+99 x (1,2,3,4)  = 99|198|297|396 | X
+----------------------------------
+987 x (1,2)     = 987|1974       | X
+987 x (1,2,3)   = 987|1974|2961  | X
+----------------------------------
+9876 x (1,2)    = 9876|19752     | ✓
+----------------------------------
+
+num <= 4 digits and n > 1
+Thus, 9876 is the upper bound.
