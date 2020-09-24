@@ -1,0 +1,20 @@
+Project Euler - Problem Solution 039
+Problem Title - Integer right triangles
+Copyright (c) Justin McGettigan. All rights reserved.
+https://github.com/jwmcgettigan/project-euler-solutions
+-------------------------------------------------------
+
+"Integral Triangle (Integer Triangle) - a triangle
+all of whosesides have lengths that are integers."
+
+"Pythagorean triple - a right angle triangle
+with integral length sides."
+
+I need a function that:
+ - Finds possible solutions from a given perimeter (p).
+    - I realized that I could reuse my answer to problem '#009'.
+
+
+a^2 + b^2 = c^2
+p = a + b + c
+c > a && c > b
