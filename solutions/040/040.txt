@@ -1,0 +1,16 @@
+Project Euler - Problem Solution 040
+Problem Title - Champernowne's constant
+Copyright (c) Justin McGettigan. All rights reserved.
+https://github.com/jwmcgettigan/project-euler-solutions
+-------------------------------------------------------
+
+9 1-digit numbers
+90 2-digit numbers
+900 3-digit numbers
+9000 4-digit numbers
+...
+9*(10^n-1) n-digit numbers
+--------------------------
+9*1 + 90*2 + 900*3 + 9000*4 ... 9*(10^n-1)*n
+
+9 + 90 + 900 + 9000 ... 9*(10^n-1)
