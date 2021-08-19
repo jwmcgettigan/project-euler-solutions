@@ -1,0 +1,37 @@
+Project Euler - Problem Solution 041
+Problem Title - Pandigital prime
+Copyright (c) Justin McGettigan. All rights reserved.
+https://github.com/jwmcgettigan/project-euler-solutions
+-------------------------------------------------------
+
+The absolute upper limit is a 9 digit pandigital number: 987654321.
+
+Looping through such a large number takes a long time so there must
+be ways to optimize my approach so that the upper limit can be lowered.
+
+Some possible approaches include:
+(1) Look into special rules/properties of pandigital numbers.
+(2) Look into special rules/properties of digit sums.
+    [https://www.sjsu.edu/faculty/watkins/Digitsum.htm#:~:text=The%20digit%20sum%20of%20a,sum%20of%20786%20is%203.]
+(3) Figure out the relationship between prime numbers and the results
+   of (1) and (2).
+
+Pandigital Numbers:
+
+
+Digit Sums:
+1 => 1
+12 => 3
+123 => 6
+1234 => 10
+12345 => 15
+123456 => 21
+1234567 => 28
+12345678 => 36
+123456789 => 45
+
+Ideas:
+- (Better) Go through all prime numbers and check whether each one is pandigital.
+- (Bad) Go through all pandigital numbers and check whether each one is prime.
+- (Maybe Good) Add all pandigital numbers to a set() and then go through all prime numbers while checking if the set() contains the prime number.
+- Since I'm looking for the largest value, I should start from the largest pandigital number and work my way downwards checking if each pandigital number is prime.

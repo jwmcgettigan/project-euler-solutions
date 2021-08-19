@@ -15,7 +15,7 @@ const equalSets = (a, b) => {
   return true;
 }
 
-/** Checks if a number contains all digits among 1-9. */
+/** Checks if a number contains all digits 1-9 exactly once. */
 const isPandigital = (identity) => (
   identity.length === 9 && equalSets(set(identity), set('123456789'))
 );

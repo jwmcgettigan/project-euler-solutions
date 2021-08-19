@@ -1,10 +1,3 @@
-/**
- * Project Euler - Problem Solution 001
- * Problem Title - Multiples of 3 and 5
- * Copyright (c) Justin McGettigan. All rights reserved.
- * https://github.com/jwmcgettigan/project-euler-solutions
- */
-
 const multipleOf = (num, multiple) => num % multiple == 0;
 const sumofMultiples = (limit) => {
   let sum = 0;

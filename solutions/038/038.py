@@ -6,7 +6,7 @@ https://github.com/jwmcgettigan/project-euler-solutions
 """
 
 def is_pandigital(identity):
-  ''' Checks if a number contains all digits among 1-9. '''
+  ''' Checks if a number contains all digits 1-9 exactly once. '''
   return len(identity) == 9 and set(identity) == set('123456789')
 
 def concatenated_product(num):

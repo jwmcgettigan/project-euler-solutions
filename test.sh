@@ -8,5 +8,6 @@ cd $path
 case $lang in
   js) node "$prob_num.js";;
   py) python "$prob_num.py";;
+  ts) ts-node "$prob_num.ts";;
   *) echo 'unknown';;
 esac
